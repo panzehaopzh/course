@@ -16,7 +16,7 @@
             <div class="position-relative">
               <div id="login-box" class="login-box visible widget-box no-border">
                 <div class="widget-body">
-                  <div class="widget-main">
+                  <div class="w n">
                     <h4 class="header blue lighter bigger">
                       <i class="ace-icon fa fa-coffee green"></i>
                       请输入用户名密码
